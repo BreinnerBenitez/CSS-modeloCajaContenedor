@@ -1,5 +1,5 @@
 ###  SELECTORES BASICOS  (PRACTICA4 MODELO CAJA CONTENEDOR),  INGRESA AL LINK DE LA PARTE DE ABAJO PARA OBSERVAR 
-[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/formatoTexto/)
+[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/CSS-modeloCajaContenedor/)
 ___
 
 ### 1 Parte del codigo en imagenes 
